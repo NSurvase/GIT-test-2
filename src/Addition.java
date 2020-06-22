@@ -14,6 +14,8 @@ public class Addition {
 	  
 	 System.out.println(a+b+x+y);
 	 System.out.println(x+y+a+b);
+	 System.out.println(x+a+y+b); //Addition
+	 
 	  
 	  
 
